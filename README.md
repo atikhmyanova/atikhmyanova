@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atikhmyanova
 - 👀 I’m interested in urban planning, urban economics, environmental issues, housing and transportation, and regional development!
 - 🌱 I’m currently learning data analysis and visualization with R
-- 💞️ I’m looking to collaborate on project related to housing 
+- 💞️ I’m looking to collaborate on projects related to housing 
 - 📫 You can reach me by email anastasia.tikhmyanova@sciencespo.fr
 
 <!---
